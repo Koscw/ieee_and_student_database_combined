@@ -77,7 +77,7 @@ def ieee(decimal):
 
 import json
 
-database_filename = "/Users/yaroslav/.spyder-py3/student_database.txt"
+database_filename = "student_database.txt"
 with open(database_filename) as file:
     students_file = json.load(file)
 

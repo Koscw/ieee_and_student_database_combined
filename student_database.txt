@@ -1,0 +1,23 @@
+{
+    "Student1": {
+        "AXS-214": 70,
+        "Name": "Charlie Morgan",
+        "ZYK": 82
+    },
+    "Student2": {
+        "BZY-132": 75,
+        "Name": "Andrew Barks",
+        "ZYS-121": 70
+    },
+    "Student3": {
+        "AIX-212": 75,
+        "Name": "Malcolm Patrick",
+        "XBS-121": 86,
+        "XIA-712": 80
+    },
+    "Student4": {
+        "ALB-213": 75,
+        "BXS-717": 89,
+        "Name": "Barry Markons"
+    }
+}
